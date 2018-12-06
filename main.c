@@ -22,6 +22,7 @@ int main(){
 
 }
 
+// Todo fix this function
 void matchDigits(int n){
 	
 	int divisor = pow(10, n);
